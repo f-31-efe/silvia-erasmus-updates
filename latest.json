@@ -1,9 +1,9 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.1",
-    "code": 2,
-    "notes": "TEST: guncelleme sistemi dogrulaniyor.",
+    "version": "1.0.0",
+    "code": 1,
+    "notes": "Ilk surum.",
     "mandatory": false,
     "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.0/SilviaErasmus.apk"
   },
