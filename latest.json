@@ -1,17 +1,17 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.1",
-    "code": 2,
-    "notes": "Yeni acilis animasyonu, vektor ikonlar, Inter yazi tipi ve ferahlatilmis tasarim.",
+    "version": "1.0.2",
+    "code": 3,
+    "notes": "Ekrani karart modu: telefon kapali gorunur, bot calismaya devam eder. Hiz ayarlarindaki sinirlar kalkti. Riskli ayarda uyari. Bildirimde tahmini kalan sure ve o an yazilan kurum.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.1/SilviaErasmus.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.2/SilviaErasmus.apk"
   },
   "yonetim": {
-    "version": "1.0.1",
-    "code": 2,
-    "notes": "Yeni acilis animasyonu, vektor ikonlar, Inter yazi tipi ve ferahlatilmis tasarim.",
+    "version": "1.0.2",
+    "code": 3,
+    "notes": "Yeni tasarim dili, ferahlatilmis duzen ve cizilen acilis animasyonu.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.1/SilviaErasmusYonetim.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.2/SilviaErasmusYonetim.apk"
   }
 }
