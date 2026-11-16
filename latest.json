@@ -1,17 +1,17 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.2",
-    "code": 3,
-    "notes": "Ekrani karart modu: telefon kapali gorunur, bot calismaya devam eder. Hiz ayarlarindaki sinirlar kalkti. Riskli ayarda uyari. Bildirimde tahmini kalan sure ve o an yazilan kurum.",
+    "version": "1.0.6",
+    "code": 7,
+    "notes": "Erasmus+ deneyimli 17.000+ okul (koordinatorler once), ulke tercihleri (oncelikli / haric), yanit ve geri donen mail takibi. Botlar ayni anda ve takilmadan calisir; mail yalnizca okulun kendi adresine gider; ayni okula iki kez yazilmaz. Yeni 3D tasarim, hafif mod, kucuk pencerede mini rapor.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.2/SilviaErasmus.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.6/SilviaErasmus.apk"
   },
   "yonetim": {
-    "version": "1.0.2",
-    "code": 3,
-    "notes": "Yeni tasarim dili, ferahlatilmis duzen ve cizilen acilis animasyonu.",
+    "version": "1.0.3",
+    "code": 4,
+    "notes": "Yeni 3D tasarim dili ve acilis animasyonu, yenilenen ekranlar, hafif mod. Bot kartlarinda ulke tercihleri ve yanit sayisi.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.2/SilviaErasmusYonetim.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.6/SilviaErasmusYonetim.apk"
   }
 }
