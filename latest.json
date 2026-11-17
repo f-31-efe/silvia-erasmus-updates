@@ -1,11 +1,11 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.7",
-    "code": 8,
-    "notes": "Mail sonundaki 'abonelikten cik' cumlesi kaldirildi. 1.0.6 yenilikleri: Erasmus+ deneyimli 17.000+ okul, ulke tercihleri, yanit takibi, yeni 3D tasarim.",
+    "version": "1.0.8",
+    "code": 9,
+    "notes": "Erasmus+ proje turlerine gore filtreler (KA121, KA122, KA131, KA210, KA220...). Okullarin yaninda STK, milli egitim mudurlukleri ve kamu kurumlari. Koordinator ve en az 5 yillik Erasmus gecmisi secenekleri. Yeni acilis ekrani.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.7/SilviaErasmus.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.8/SilviaErasmus.apk"
   },
   "yonetim": {
     "version": "1.0.3",
