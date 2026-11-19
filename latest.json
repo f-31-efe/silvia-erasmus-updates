@@ -1,17 +1,17 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.11",
-    "code": 12,
-    "notes": "Botlar elenen okulda beklemeden siradakine geciyor. Telefonda bildirim, kucuk pencere ve ekran karartma duzeltildi; Ayarlar'a Telefon karti eklendi. Telefonda bir kez elle kurman gerekiyor (kurulum izni yeni).",
+    "version": "1.0.12",
+    "code": 13,
+    "notes": "Telefon bildirimleri, kucuk pencere ayari ve ayar sayfalari duzeltildi (onceki surumlerde kodda yanlis cagriliyordu). Ekran karartma ekrani acik tutar. Telefonda bir kez elle kurman gerekiyor.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.11/SilviaErasmus.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.12/SilviaErasmus.apk"
   },
   "yonetim": {
-    "version": "1.0.5",
-    "code": 6,
-    "notes": "Canli veri: ekranlar aninda guncellenir. Yanlis gorunen sayilar ve kota hatasi duzeltildi. 'Su an' karti.",
+    "version": "1.0.6",
+    "code": 7,
+    "notes": "Telefon bildirimleri duzeltildi. Telefonda bir kez elle kurman gerekiyor.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.9/SilviaErasmusYonetim.apk"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.12/SilviaErasmusYonetim.apk"
   }
 }
