@@ -1,12 +1,12 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.19",
-    "code": 20,
-    "notes": "Donus takibi: yanitlarin icerik analizi, telefon ve ozet; paylasim varsayilan kapali, ilk acilista onay sorulur.",
+    "version": "1.0.20",
+    "code": 21,
+    "notes": "Proje turu (KA122) artik oncelik: bitince secilen okul turu ve bolgelere uyan diger kurumlara gecer.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.19/SilviaErasmus.apk",
-    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.19/SilviaErasmus-Windows.exe"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.20/SilviaErasmus.apk",
+    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.20/SilviaErasmus-Windows.exe"
   },
   "yonetim": {
     "version": "1.0.12",
