@@ -9,11 +9,11 @@
     "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.16/SilviaErasmus-Windows.exe"
   },
   "yonetim": {
-    "version": "1.0.10",
-    "code": 11,
-    "notes": "Windows'ta kendini guncelleme, Android'de kurulum izni ve eski APK temizligi, Esitle icin uzun zaman asimi.",
+    "version": "1.0.11",
+    "code": 12,
+    "notes": "Oturum silme canli merkezden de siler; silinen oturumlar geri gelmez.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.10/SilviaErasmusYonetim.apk",
-    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.10/SilviaErasmusYonetim-Windows.exe"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.11/SilviaErasmusYonetim.apk",
+    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.11/SilviaErasmusYonetim-Windows.exe"
   }
 }
