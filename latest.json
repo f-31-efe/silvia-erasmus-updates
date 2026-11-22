@@ -1,12 +1,12 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.22",
-    "code": 23,
-    "notes": "Gmail gonderme siniri korumasi (botlar otomatik durur), olumlu/bilgi isteyen yanitlarin tam metni (onayla), yeni onay metni.",
+    "version": "1.0.23",
+    "code": 24,
+    "notes": "Botlar kurum bulmakta zorlaniyordu: olu siteler kuyrugun sonuna, hic bakilmamis siteler one alindi (hedef havuzu cok daha hizli doluyor).",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.22/SilviaErasmus.apk",
-    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.22/SilviaErasmus-Windows.exe"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.23/SilviaErasmus.apk",
+    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.23/SilviaErasmus-Windows.exe"
   },
   "yonetim": {
     "version": "1.0.15",
