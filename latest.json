@@ -1,19 +1,19 @@
 {
   "_aciklama": "Silvia Erasmus surum bilgisi. Uygulamalar acilista bu dosyayi okur. Yeni surum yayinlarken: code degerini bir artir, version ve notes'u guncelle, apk baglantisini yeni release dosyasina cevir. Uygulama tarafinda da Updater.gd icindeki VERSION_CODE ayni deger yapilmali.",
   "erasmus": {
-    "version": "1.0.21",
-    "code": 22,
-    "notes": "Donus takibi guncellendi, nobetci duraklatma destegi, Terminal temasi ve ekrani, takilma duzeltmeleri, olu site listesi ve spam sayfa korumasi, genisletilmis katalog.",
+    "version": "1.0.22",
+    "code": 23,
+    "notes": "Gmail gonderme siniri korumasi (botlar otomatik durur), olumlu/bilgi isteyen yanitlarin tam metni (onayla), yeni onay metni.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.21/SilviaErasmus.apk",
-    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.21/SilviaErasmus-Windows.exe"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.22/SilviaErasmus.apk",
+    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/v1.0.22/SilviaErasmus-Windows.exe"
   },
   "yonetim": {
-    "version": "1.0.14",
-    "code": 15,
-    "notes": "Jarvis asistani duzeltildi: Claude Code koprusu varsa her zaman once o kullanilir (502 hatasi giderildi).",
+    "version": "1.0.15",
+    "code": 16,
+    "notes": "Oncelikli donusler, net bilgi karti, mesajin Turkcesi (Claude Code), Jarvis duzeltmesi.",
     "mandatory": false,
-    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.14/SilviaErasmusYonetim.apk",
-    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.14/SilviaErasmusYonetim-Windows.exe"
+    "apk": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.15/SilviaErasmusYonetim.apk",
+    "exe": "https://github.com/f-31-efe/silvia-erasmus-updates/releases/download/yonetim-v1.0.15/SilviaErasmusYonetim-Windows.exe"
   }
 }
